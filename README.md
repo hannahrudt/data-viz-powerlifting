@@ -1,15 +1,12 @@
 # data-viz-powerlifting
-Personal project visualizing female athlete powerlifting progress.
 
 ## Project Description:
 ### This personal project visualizes female powerlifting progress between 1985 and 1995 in benchpress and squat events. 
 
 ## Strengths:
-- Data descriptions show my ability to familiarize myself with with raw and clean data, as well as understand the cleaning process.
+- Implementation of mouseover interactivity to provide viewer with more information about the data.
 
-- Scatter plots in Summary Statistics are important to communicating context to viewers, which is one of my interests and strengths.
-
-- Introduction and Interpretation and Conclusions are examles of mastery of data analysis. These sections exemplify that I can communicate the meaning of complicated technical analyses performed by teammates. 
+- Intentional and clear design; considered color, unobstructive graph, informative axes and labeling
 
 ## Repository organization:
 
