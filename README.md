@@ -12,4 +12,4 @@
 
 - The main __[HTML](/index.html)__ contains the visualization. 
 
-- The cleaned data is in the ["Powerlifting"](/powerlifting.csv) CSV file.
+- The cleaned data is in the ["Powerlifting" CSV file](/powerlifting.csv).
