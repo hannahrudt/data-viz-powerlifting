@@ -10,6 +10,6 @@
 
 ## Repository organization:
 
-- The main [HTML](/index.html) contains the visualization. 
+- The __[main HTML file](/index.html)__ contains the visualization. 
 
 - The cleaned data is in the ["Powerlifting" CSV file](/powerlifting.csv).
